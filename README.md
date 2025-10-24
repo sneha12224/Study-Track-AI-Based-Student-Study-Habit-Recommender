@@ -1,5 +1,3 @@
-# Study-Track-AI-Based-Student-Study-Habit-Recommender
-
 # Student Performance EDA Project
 
 # Overview
