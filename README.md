@@ -1,12 +1,12 @@
-# Study-Track-AI-Based-Student-Study-Habit-Recommender
+# Study-Track-AI-Based-Student-Study-Habit-Recommender --Infosys
 
 ## Project: AI-Based Student Study Habit Recommender Track: Infosys Study Track – AI-Based Student Study Habit Recommender
 
-🎯 Objective
+ Objective
 
 The goal of this milestone is to prepare a clean and analysable dataset by performing data preprocessing and exploratory data analysis (EDA). This ensures a solid foundation for building a recommendation model that suggests personalized study habits for students.
 
-🧩 Dataset Description
+ Dataset Description
 
 Dataset Source: Kaggle Student Performance Dataset
 
@@ -46,15 +46,15 @@ Detected outliers using IQR and boxplots.
 Exploratory Data Analysis (EDA)
 Created visual insights using Matplotlib and Seaborn:
 
-📊 Distribution Plot: Study time and final grade distribution.
+ 1.Distribution Plot: Study time and final grade distribution.
 
-🧩 Scatter Plot: Relationship between absences and final grades.
+2. Scatter Plot: Relationship between absences and final grades.
 
-🔥 Correlation Heatmap: Highlights correlations among numerical features.
+3. Correlation Heatmap: Highlights correlations among numerical features.
 
-📈 Bar Plot: Comparison of grades by gender and parental education.
+4. Bar Plot: Comparison of grades by gender and parental education.
 
-🧰 Tools & Libraries Used
+5. Tools & Libraries Used
 
 Python
 
